@@ -4,7 +4,7 @@
 6/15/2021
 
 ### Project Title
-Project fork for Project Delivery
+Project fork for Project Delivery for Udacity MLOPS
 
 ### Description
 Intended to test skills on Git and version control usage.
