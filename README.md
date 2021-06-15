@@ -16,3 +16,4 @@ README.md
 
 ### Credits
 https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md
+https://git-scm.com/doc
